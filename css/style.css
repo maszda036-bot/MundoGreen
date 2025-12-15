@@ -214,3 +214,9 @@ footer {
     font-weight: 700;
     color: #345C3E;
 }
+
+@media (max-width: 767.98px) {
+  #chatbot .iframe-container {
+    min-height: 500px;
+  }
+}
