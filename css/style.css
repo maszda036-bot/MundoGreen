@@ -136,6 +136,12 @@ footer {
     overflow: hidden;
 }
 
+.card-img-container .card-img-top {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+
 .icon-zoom {
     position: absolute;
     top: 15px;
